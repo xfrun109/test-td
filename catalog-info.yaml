@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: frantz-test-md
+  title: FrantzTestMD
+  description: This is a test package by Frantz
+  annotations:
+    backstage.io/techdocs-ref: dir:./
+spec:
+  type: package
+  lifecycle: production
+  owner: team-integrators-sap-is-developer
