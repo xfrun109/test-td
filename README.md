@@ -1,6 +1,6 @@
 # Frantz - ROOT/README.md
 
-This content was generated based on the `root/README.md` without `using docs/index.md`.
+This content was generated based on the `root/README.md` without using `docs/index.md`.
 
 Below you can find some sample test cases that contain some links:
 - This a sample [relative link](relative_link.md) in the same root directory.
