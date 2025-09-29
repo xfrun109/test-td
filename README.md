@@ -19,3 +19,11 @@ Below you can find some sample test cases that contain some links:
 1. First list item
    - First nested list item
      - Second nested list item
+
+# Quotes
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
