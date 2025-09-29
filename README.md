@@ -20,6 +20,10 @@ Below you can find some sample test cases that contain some links:
    - First nested list item
      - Second nested list item
 
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
 # Quotes
 Some basic Git commands are:
 ```
