@@ -5,3 +5,5 @@ This content was generated based on the `root/README.md` without `using docs/ind
 Below you can find some sample test cases that contain some links:
 - This a sample [relative link](relative_link.md) in the same root directory.
 - Another test case is [another relative link](sub/sub_relative_link.md) that is found in a subdirectory of the repository ROOT directory.
+
+TEST
