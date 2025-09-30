@@ -1,4 +1,4 @@
- ![Azure EventHub logo](https://github.com/DanskeStatsbaner/aeh-docs/blob/main/aeh.jpg?raw=true)
+ ![Azure EventHub logo](https://github.com/DanskeStatsbaner/aeh-docs/blob/main/aeh.jpg)
  
 # Frantz - Demo Project 🚀
 
