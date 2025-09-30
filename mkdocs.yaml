@@ -1,5 +1,7 @@
 site_name: Frantz Test MD
 site_description: Frantz is testing
 
+edit_uri: edit/main
+
 markdown_extensions:
   - toc
