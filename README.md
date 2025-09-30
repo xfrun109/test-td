@@ -24,7 +24,10 @@ Below you can find some sample test cases that contain some links:
 Below are some possible improvements:
 
 - custom styles are possible (eg: paddings for heading which are disturbing right now, colors, etc)
+- display last modified date of the visualised document based on Git blame information (author & date)
+- link and display also the changelog in case the repo has one
 * either on the left (nav) or on the right side automatic generation of content for heading is possible based on code only; so no need for the repository owners to do anything like [here](/docs/default/component/sapis-alstomic5)
+* `CHANGELOG.md` could be displayed automatically
 + ...more ideas will come in the future as we nagivate more and discover new things w/[Backsatge](https://backstage.io/docs/features/techdocs/)
 
 ## Nested Lists
