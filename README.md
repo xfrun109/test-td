@@ -4,9 +4,9 @@ This content was generated based on the `root/README.md` without using `docs/ind
 
 Below you can find some sample test cases that contain some links:
 
-- This a sample [relative link](relative_link.md) in the same root directory.
-- Another test case is [another relative link](sub/sub_relative_link.md) that is found in a subdirectory of the repository ROOT directory.
-- Sample [absolute link](https://www.dsb.dk)
+- This a sample [relative link](relative_link.md) in the same root directory: `relative_link.md`;
+- Another test case is [another relative link](sub/sub_relative_link.md) that is found in a subdirectory of the repository ROOT directory: `sub/sub_relative_link.md`;
+- Sample [absolute link](https://www.dsb.dk) pointing to a great resource.
 
 # Headings
 Root level content.
