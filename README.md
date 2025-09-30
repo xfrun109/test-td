@@ -18,16 +18,20 @@ Some 2nd level content.
 Some 3rd level content.
 
 # Lists
+
+## Simple Lists using -, * and +
 - George Washington
 * John Adams
 + Thomas Jefferson
 
+## Nested Lists
 1. First list item
    - First nested list item
      - Second nested list item
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
+## Checkmarked lists
+- [x] Are very nice
+- [ ] I don't like them
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 # Quotes
