@@ -6,6 +6,7 @@ Below you can find some sample test cases that contain some links:
 
 - This a sample [relative link](relative_link.md) in the same root directory.
 - Another test case is [another relative link](sub/sub_relative_link.md) that is found in a subdirectory of the repository ROOT directory.
+- Sample [absolute link](https://www.dsb.dk)
 
 # Headings
 Root level content.
