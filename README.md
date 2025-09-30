@@ -2,12 +2,6 @@
 
 This content was generated based on the `root/README.md` without using `docs/index.md`.
 
-Below you can find some sample test cases that contain some links:
-
-- This a sample [relative link](relative_link.md) in the same root directory: `relative_link.md`;
-- Another test case is [another relative link](sub/sub_relative_link.md) that is found in a subdirectory of the repository ROOT directory: `sub/sub_relative_link.md`;
-- Sample [absolute link](https://www.dsb.dk) pointing to a great resource :bullettrain_side::train::train:.
-
 # Headings
 Root level content.
 
@@ -16,6 +10,13 @@ Some 2nd level content.
 
 ### A third-level heading
 Some 3rd level content.
+
+# Links
+Below you can find some sample test cases that contain some links:
+
+- This a sample [relative link](relative_link.md) in the same root directory: `relative_link.md`;
+- Another test case is [another relative link](sub/sub_relative_link.md) that is found in a subdirectory of the repository ROOT directory: `sub/sub_relative_link.md`;
+- Sample [absolute link](https://www.dsb.dk) pointing to a great resource :bullettrain_side::train::train:.
 
 # Lists
 
