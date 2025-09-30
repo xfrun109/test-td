@@ -1,7 +1,7 @@
 site_name: Frantz Test MD
 site_description: Frantz is testing
 
-docs_dir:./
+docs_dir: ./
 
 plugins:
   - techdocs-core
