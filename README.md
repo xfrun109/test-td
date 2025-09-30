@@ -1,3 +1,5 @@
+ ![Azure EventHub logo](https://github.com/DanskeStatsbaner/aeh-docs/blob/main/aeh.jpg?raw=true)
+ 
 # Frantz - Demo Project 🚀
 
 This content was generated based on the `root/README.md` without using `docs/index.md`.
