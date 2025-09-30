@@ -8,8 +8,13 @@ Below you can find some sample test cases that contain some links:
 - Another test case is [another relative link](sub/sub_relative_link.md) that is found in a subdirectory of the repository ROOT directory.
 
 # Headings
+Root level content.
+
 ## A second-level heading
+Some 2nd level content.
+
 ### A third-level heading
+Some 3rd level content.
 
 # Lists
 - George Washington
