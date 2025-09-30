@@ -1,6 +1,7 @@
 site_name: Frantz Test MD
 site_description: Frantz is testing
 
+repo_url: https://github.com/xfrun109/test-td
 edit_uri: edit/main
 
 markdown_extensions:
