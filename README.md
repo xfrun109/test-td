@@ -21,9 +21,10 @@ Below you can find some sample test cases that contain some links:
 # Lists
 
 ## Simple Lists using -, * and +
-- George Washington
-* John Adams
-+ Thomas Jefferson
+Below are some possible improvements
+- custom styles are possible (eg: paddings for heading which are disturbing right now, colors, etc)
+* either on the left (nav) or on the right side automatic generation of content for heading is possible based on code only; so no need for the repository owners to do anything
++ ...more ideas will come in the future as we nagivate more and discover new things w/[Backsatge](https://backstage.io/docs/features/techdocs/)
 
 ## Nested Lists
 1. First list item
