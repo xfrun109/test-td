@@ -1,7 +1,5 @@
 site_name: Frantz Test MD
 site_description: Frantz is testing
-edit_uri: blob/main/docs/
-docs_dir: ./docs
 
 plugins:
   - techdocs-core
