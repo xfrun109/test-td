@@ -22,7 +22,7 @@ Below you can find some sample test cases that contain some links:
 # Lists
 
 ## Simple Lists using -, * and +
-Below are some possible improvements:
+Below are some possible improvement suggestions that we might implement in the future:
 
 - custom styles are possible (eg: paddings for heading which are disturbing right now, colors, etc)
 - display last modified date of the visualised document based on Git blame information (author & date)
