@@ -5,6 +5,7 @@ This content was generated based on the `root/README.md` without using `docs/ind
 # Headings
 Root level content which contains also an image.
 ![Sample Image 1021](https://yavuzceliker.github.io/sample-images/image-1021.jpg)
+![Azure EventHub logo](https://github.com/DanskeStatsbaner/aeh-docs/blob/main/aeh.jpg?raw=true)
 
 ## A second-level heading
 Some 2nd level content.
