@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: frantz-test-md
-  title: FrantzTestMD
+  title: Frantz Demo
   description: This is a test package by Frantz
   annotations:
     backstage.io/techdocs-ref: dir:./
