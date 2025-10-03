@@ -13,6 +13,8 @@ Below you can find some sample test cases that contain some links:
 Root level content which contains also an image.
 ![Kong](https://camo.githubusercontent.com/733593a5edce1e6474a3a82297582a813bbee7ba2edee6db8b35aa8c744a1e83/68747470733a2f2f6b6f6e6768712e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f6b6f6e672d6c6f676f2d6769746875622d726561646d652e706e67)
 
+![Test](https://raw.githubusercontent.com/DanskeStatsbaner/aeh-docs/refs/heads/main/aeh.jpg?token=GHSAT0AAAAAADI74P5ORYOAGP47R4MO2XEW2G7ZWYA)
+
 ## A second-level heading
 Some 2nd level content.
 
