@@ -1,4 +1,4 @@
-# Frantz - Demo Project 🚀
+# Frantz - Demo Project Now 🚀
 
 This content was generated based on the `root/README.md` without using `docs/index.md`.
 
