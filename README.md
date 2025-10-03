@@ -5,7 +5,7 @@ This content was generated based on the `root/README.md` without using `docs/ind
 # Headings
 Root level content which contains also an image.
 ![Sample Image 1021](https://yavuzceliker.github.io/sample-images/image-1021.jpg)
-![Azure EventHub logo]([[https://github.com/DanskeStatsbaner/aeh-docs/blob/main/aeh.jpg?raw=true](https://dsbintranet.sharepoint.com/_api/v2.1/shares/u!aHR0cHM6Ly9kc2JpbnRyYW5ldC5zaGFyZXBvaW50LmNvbS9zaXRlcy9hYmNfL1NpdGVBc3NldHMvU2l0ZVBhZ2VzLzU2ZjgyMmVkLTUzMDItNGUzMS1hMTZhLWJmNDFhYThkZjgxYSg0MCkvS3VsdHVybmF0LTI1LTQtMy5qcGc/driveItem/thumbnails/0/c400x99999/content?prefer=noRedirect,extendCacheMaxAge&clientType=modernWebPart](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Constantin_Brancusi_c.1905.jpg/500px-Constantin_Brancusi_c.1905.jpg))
+![Azure EventHub logo](https://github.com/DanskeStatsbaner/aeh-docs/blob/main/aeh.jpg?raw=true](https://dsbintranet.sharepoint.com/_api/v2.1/shares/u!aHR0cHM6Ly9kc2JpbnRyYW5ldC5zaGFyZXBvaW50LmNvbS9zaXRlcy9hYmNfL1NpdGVBc3NldHMvU2l0ZVBhZ2VzLzU2ZjgyMmVkLTUzMDItNGUzMS1hMTZhLWJmNDFhYThkZjgxYSg0MCkvS3VsdHVybmF0LTI1LTQtMy5qcGc/driveItem/thumbnails/0/c400x99999/content?prefer=noRedirect,extendCacheMaxAge&clientType=modernWebPart](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Constantin_Brancusi_c.1905.jpg/500px-Constantin_Brancusi_c.1905.jpg]
 
 ## A second-level heading
 Some 2nd level content.
