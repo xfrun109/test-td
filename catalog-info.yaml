@@ -13,6 +13,6 @@ links:
       title: My Dashboard
       icon: dashboard
 spec:
-  type: package
-  lifecycle: production
+  type: service
+  lifecycle: dev
   owner: team-integrators-sap-is-developer
