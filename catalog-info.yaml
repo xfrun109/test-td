@@ -6,7 +6,7 @@ metadata:
   description: This is a test package by Frantz
   annotations:
     backstage.io/techdocs-ref: dir:./
-    grafana/dashboard-selector: "folderUrl == 'https://grafana.azure.dsb.dk/d/9af01dd7-9c84-4ee7-be2f-efb348286f4e/talgo-ipaas-sap-integration-flows-humio'"
+    grafana/dashboard-selector: "folderUrl @> '/dashboards/f/bey91x9bolb7ka'"
   links:
       - url: https://dashboard.example.com
         title: My Dashboard
