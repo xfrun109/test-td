@@ -7,8 +7,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:./
     grafana/dashboard-selector: "folderUrl == 'https://grafana.azure.dsb.dk/d/9af01dd7-9c84-4ee7-be2f-efb348286f4e/talgo-ipaas-sap-integration-flows-humio'"
-    grafana/tag-selector: frantz-test-tag
 spec:
-  type: service
+  type: package
   lifecycle: dev
   owner: team-integrators-sap-is-developer
