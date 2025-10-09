@@ -5,9 +5,16 @@ metadata:
   title: Frantz Demo
   description: This is a test package by Frantz
   annotations:
+    ### TechDocs annotations
     backstage.io/techdocs-ref: dir:./
-    grafana/dashboard-selector: "folderUrl == 'https://grafana.azure.dsb.dk/dashboards/f/bey91x9bolb7ka/dst-delivery-station-team'"
+
+    # 👉 Grafana Dashboards annotations
+    # > Method 1: Link multiple dashboards by their URL
+    # grafana/dashboard-selector: "folderUrl == 'https://grafana.azure.dsb.dk/dashboards/f/bey91x9bolb7ka/dst-delivery-station-team'"
+    
+    # > Method 2: Link multiple dashboards by their tags
     # grafana/dashboard-selector: "(tags @> 'dev')"
+    
   links:
       - url: https://dashboard.example.com
         title: My Dashboard
