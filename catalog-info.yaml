@@ -6,8 +6,8 @@ metadata:
   description: This is a test package by Frantz
   annotations:
     backstage.io/techdocs-ref: dir:./
-    # grafana/dashboard-selector: "folderUrl == 'https://grafana.azure.dsb.dk/dashboards/f/bey91x9bolb7ka/dst-delivery-station-team'"
-    grafana/dashboard-selector: "(tags @> 'dev')"
+    grafana/dashboard-selector: "folderUrl == 'https://grafana.azure.dsb.dk//dashboards/f/bey91x9bolb7ka/dst-delivery-station-team'"
+    # grafana/dashboard-selector: "(tags @> 'dev')"
   links:
       - url: https://dashboard.example.com
         title: My Dashboard
