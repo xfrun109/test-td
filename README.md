@@ -11,6 +11,7 @@ Below you can find some sample test cases that contain some links:
 
 # Headings
 Root level content which contains also an image.
+![PrivateRepoIm](./assets/image.png)
 ![Azure EventHub logo](https://github.com/DanskeStatsbaner/aeh-docs/blob/main/aeh.jpg?raw=true)
 
 ![Kong](https://camo.githubusercontent.com/733593a5edce1e6474a3a82297582a813bbee7ba2edee6db8b35aa8c744a1e83/68747470733a2f2f6b6f6e6768712e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f6b6f6e672d6c6f676f2d6769746875622d726561646d652e706e67)
