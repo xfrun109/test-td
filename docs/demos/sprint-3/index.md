@@ -1,5 +1,6 @@
-# Frantz - Sprint #3 Demo 🚀
+# Frantz - Sprint #3 🚀
 
+## Demos
 Below you can find the work done in Sprint #3:
 - Added Grafana dashboard for monitoring the Frantz service
 - Fixed minor bugs and improved performance
