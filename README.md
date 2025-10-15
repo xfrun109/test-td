@@ -1,4 +1,4 @@
-# Frantz - Demo Project 🚀 [![Build](https://github.com/DanskeStatsbaner/ods-crew-schedule/actions/workflows/workloads.yaml/badge.svg)](https://github.com/DanskeStatsbaner/ods-crew-schedule/actions/workflows/workloads.yaml)
+# Frantz - Demo Project 🚀
 
 
 This content was generated based on the `root/README.md` without using `docs/index.md`.
