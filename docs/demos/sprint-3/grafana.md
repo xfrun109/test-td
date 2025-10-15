@@ -24,3 +24,6 @@ The current list of dashboards from DST team as provided by Salman can be found 
 ## 🎉 What's Next / Future Improvements
 - Customize the Grafana plugin to fit our needs (title setup from the remote repository, display other useful information, etc)
 - Add embedding support for dashboards and alerts
+
+## Q & A
+![img.png](img.png)

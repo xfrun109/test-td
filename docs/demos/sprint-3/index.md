@@ -1,4 +1,4 @@
-# Frantz - Sprint #3 🚀
+# Sprint #3 🚀
 
 ## Demos
 Below you can find the work done in Sprint #3:
@@ -11,9 +11,7 @@ Below you can find the work done in Sprint #3:
 
   > 💡 **_Tip:_** Other improvements suggestions can be found [here](https://jira.dsb.dk/browse/IN-1407)
 
-
-
-## GitHub Activities
+## Activities
 
 > **_Pull Requests:_**
 > The latest PR's merged can be found in the [Pull Requests section](https://github.com/DanskeStatsbaner/depo-dev-portal/pulls?q=is%3Apr+is%3Aclosed+author%3Axfrun109).

@@ -21,3 +21,6 @@ that are onboarded with our Depo Dev Portal application by processing and displa
     | *SUPPORT.md*             | Provides instructions for users on how to get help (issues, discussions, forums, etc.).                            |
     | *INSTALL.md*_(optional)_ | Details installation steps separately if `README.md` is too large.                                                 |
     | *FAQ.md* _(optional)_    | Lists common questions and answers for users or contributors.                                                      |
+
+## Q & A
+![img_1.png](img_1.png)
