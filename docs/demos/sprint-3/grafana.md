@@ -18,8 +18,8 @@ explore, query, and display metrics, logs, and traces from various data sources 
 
 - [Added quick link](https://depo-portal-ui-tooling.tst.tog.azure.dsb.dk) to the toolkit items to easily find DBS's Grafana resources
 - Provided a sample dashboard for displaying [`Delivery Station Team`(DST) configured dashboards](https://depo-portal-ui-tooling.tst.tog.azure.dsb.dk/catalog/default/component/frantz-test-md)
-The current list of dashboards from DST team as provided by Salman can be found [here](https://grafana.azure.dsb.dk/dashboards/f/bey91x9bolb7ka/?orgId=1)
-- Updated [documentation](https://github.com/DanskeStatsbaner/depo-dev-portal/blob/main/docs/plugins.md#grafana) for both internal usage and feature team integrations with full working examples
+The current list of dashboards from DST team as provided by Salman can be found  <a href="https://grafana.azure.dsb.dk/dashboards/f/bey91x9bolb7ka/?orgId=1" target=_blank>here</a>
+- Updated <a href="https://github.com/DanskeStatsbaner/depo-dev-portal/blob/main/docs/plugins.md#grafana" target=_blamk>documentation</a> for both internal usage and feature team integrations with full working examples
 
 ## 🎉 Ideas for Future Improvements
 - Customize the Grafana plugin to fit our needs (title setup from the remote repository, display other useful information (eg: Description, tags, last modified), etc)
