@@ -22,7 +22,8 @@ The current list of dashboards from DST team as provided by Salman can be found 
 - Updated [documentation](https://github.com/DanskeStatsbaner/depo-dev-portal/blob/main/docs/plugins.md#grafana) for both internal usage and feature team integrations with full working examples
 
 ## 🎉 What's Next / Future Improvements
-- Customize the Grafana plugin to fit our needs (title setup from the remote repository, display other useful information, etc)
+- Customize the Grafana plugin to fit our needs (title setup from the remote repository, display other useful information (eg: Description, tags, last modified), etc)
+- Extend Grafana beyond componets and display those dashboards also for Systems for example
 - Add embedding support for dashboards and alerts
 
 ## Q & A
