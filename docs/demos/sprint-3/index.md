@@ -3,7 +3,7 @@
 ## Demos
 Below you can find the work done in Sprint #3:
 
-- Added [Grafana integration](grafana.md) for components
+- Added [Grafana integration](grafana.md) for Systems & Components
 - Enhanced our [technical documentation](techdocs.md) generation process
 - Worth mentioning
   - Fixed Node 20 issue and added Node 22 improvement suggestions
