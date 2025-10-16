@@ -1,6 +1,5 @@
 # Frantz - Demo Project 🚀
 
-
 This content was generated based on the `root/README.md` without using `docs/index.md`.
 
 # Links
@@ -16,7 +15,7 @@ Root level content which contains also some images:
 
 - Image contained within the current repository
 
-![PrivateRepoIm](./assets/image.png)
+![PrivateRepoIm](./assets/internal-image-asset.png)
 
 - External image from another DSB repository
 
