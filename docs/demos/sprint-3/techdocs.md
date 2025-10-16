@@ -10,7 +10,7 @@ that are onboarded with our Depo Dev Portal application by processing and displa
 - fixed displaying GitHub Images from markdown files used by developers in their own projects documentation
 
 ## ⏱️ Ideas for Future Improvements
-- Additional Standard Project Documentation processing for TechDocs that can be found [here](https://jira.dsb.dk/browse/IN-1664):
+- Additional Standard Project Documentation processing for TechDocs that can be found <a target=_blank href=https://jira.dsb.dk/browse/IN-1664">here</a>:
 
     | File                  | Purpose                                                                                                 |
     |-----------------------|---------------------------------------------------------------------------------------------------------|
