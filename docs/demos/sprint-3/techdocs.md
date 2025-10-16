@@ -9,7 +9,7 @@ This process ensures that all relevant information is up-to-date and easily acce
 that are onboarded with our Depo Dev Portal application by processing and displaying the changes on them
 - fixed displaying GitHub Images from markdown files used by developers in their own projects documentation
 
-## ⏱️ What could be Next / Future Improvements
+## ⏱️ Ideas for Future Improvements
 - Additional Standard Project Documentation processing for TechDocs that can be found [here](https://jira.dsb.dk/browse/IN-1664):
 
     | File                     | Purpose                                                                                                            |
