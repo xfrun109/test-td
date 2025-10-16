@@ -1,4 +1,4 @@
-# Technical Documentation Generation Process
+# Enhance Technical Documentation Generation Process
 
 ## 📖 Overview
 Each time a team onboards their project to the Depo Dev Portal, our system automatically generates and publishes technical documentation for that project.
