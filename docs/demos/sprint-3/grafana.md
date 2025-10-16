@@ -1,7 +1,7 @@
 # Grafana integration for DSB Systems & Components
 
 ## 📖 Description
-This document outlines the integration of <a href"https://grafana.com" target=_blank>Grafana</a> into our Depo application by the enabling feature teams to display dashboards and alerts.
+This document outlines the integration of <a href="https://grafana.com" target=_blank>Grafana</a> into our Depo application by the enabling feature teams to display dashboards and alerts.
 
 ### About Grafana
 For those of us who are less technical, Grafana is an open-source observability platform for monitoring, visualization, and analytics — primarily used to
