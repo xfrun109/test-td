@@ -10,7 +10,7 @@ metadata:
 
     # 👉 Grafana Dashboards annotations
     # > Method 1: Link multiple dashboards by their URL
-    grafana/dashboard-selector: "folderUrl == 'https://grafana.azure.dsb.dk/dashboards/f/bey91x9bolb7ka/dst-delivery-station-team'"
+    grafana/dashboard-selector: "folderUrl == 'https://grafana.azure.dsb.dk/dashboards/f/fe2mfu18bmoe8e/ipaas-sap-is'"
     
     # > Method 2: Link multiple dashboards by their tags
     # grafana/dashboard-selector: "(tags @> 'dev')"
