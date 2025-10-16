@@ -27,4 +27,4 @@ The current list of dashboards from DST team as provided by Salman can be found 
 - Add embedding support for dashboards and alerts
 
 ## Q & A
-![img.png](img.png)
+![Q&A](assets/brace-yourself.png)

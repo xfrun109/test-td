@@ -23,4 +23,4 @@ that are onboarded with our Depo Dev Portal application by processing and displa
     | *FAQ.md* _(optional)_    | Lists common questions and answers for users or contributors.                                                      |
 
 ## Q & A
-![img_1.png](img_1.png)
+![Q&A](assets/any-questions.png)
