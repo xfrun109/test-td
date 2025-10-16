@@ -12,10 +12,15 @@ Below you can find some sample test cases that contain some links:
 - [Current Sprint Demo Session](docs/demos/sprint-3/index.md)
 
 # Headings
-Root level content which contains also an image.
+Root level content which contains also some images:
+
+- Image contained within the current repository
 ![PrivateRepoIm](./assets/image.png)
+
+- External image from another DSB repository
 ![Azure EventHub logo](https://github.com/DanskeStatsbaner/aeh-docs/blob/main/aeh.jpg?raw=true)
 
+- External image from web
 ![Kong](https://camo.githubusercontent.com/733593a5edce1e6474a3a82297582a813bbee7ba2edee6db8b35aa8c744a1e83/68747470733a2f2f6b6f6e6768712e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f6b6f6e672d6c6f676f2d6769746875622d726561646d652e706e67)
 
 ## A second-level heading
