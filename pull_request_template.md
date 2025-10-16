@@ -20,8 +20,8 @@ Fixes # (issue)
 - [ ] I have written a short summary that describes the change.
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] I have linked working item/s.
-- [ ] I have added/updated unit tests [optional]
-- [ ] I have added data-senses tags for e2e [optional]
+- [ ] I have added/updated Unit Tests [optional]
+- [ ] I have added data-senses tags for E2E [optional]
 - [ ] I have removed unnecessary `console.logs`
 - [ ] I have made corresponding changes to the documentation
 - [ ] I have added tests that prove my fix is effective or that my feature works
@@ -42,11 +42,10 @@ Fixes # (issue)
 - Use `async` pipe whenever is possible.
 - Avoid memory leaks (eg: `dont forget to unsubscribe`).
 
-### Best practices unit test
+### Best practices Unit Tests
 - Use spectator library.
 - Use `jest.spyOn` for spy.
 - Use `jest.useFakeTimers().setSystemTime(new Date('2020-01-01'))` for faking timers.
 - Use snapshot testing for html rendering.
 - Use `jest.restoreAllMocks()` for clearing mocks.
 
-### Team Depo Innovators PR Template
