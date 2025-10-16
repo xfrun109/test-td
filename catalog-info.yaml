@@ -11,6 +11,7 @@ metadata:
     # 👉 Grafana Dashboards annotations
     # > Method 1: Link multiple dashboards by their URL
     grafana/dashboard-selector: "folderUrl == 'https://grafana.azure.dsb.dk/dashboards/f/fe2mfu18bmoe8e/ipaas-sap-is'"
+    grafana/overview-dashboard: "https://grafana.azure.dsb.dk/d/9af01dd7-9c84-4ee7-be2f-efb348286f4e/talgo-ipaas-sap-integration-flows-humio?orgId=1?orgId=1&kiosk"
     
     # > Method 2: Link multiple dashboards by their tags
     # grafana/dashboard-selector: "(tags @> 'dev')"
