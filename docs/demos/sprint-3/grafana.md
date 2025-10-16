@@ -1,4 +1,4 @@
-# Grafana
+# Grafana integration for DSB Systems & Components
 
 ## 📖 Description
 This document outlines the integration of [Grafana](https://grafana.com/) into our Depo application by the enabling feature teams to display dashboards and alerts.
@@ -21,9 +21,10 @@ explore, query, and display metrics, logs, and traces from various data sources 
 The current list of dashboards from DST team as provided by Salman can be found [here](https://grafana.azure.dsb.dk/dashboards/f/bey91x9bolb7ka/?orgId=1)
 - Updated [documentation](https://github.com/DanskeStatsbaner/depo-dev-portal/blob/main/docs/plugins.md#grafana) for both internal usage and feature team integrations with full working examples
 
-## 🎉 What's Next / Future Improvements
+## 🎉 Ideas for Future Improvements
 - Customize the Grafana plugin to fit our needs (title setup from the remote repository, display other useful information (eg: Description, tags, last modified), etc)
-- Extend Grafana beyond componets and display those dashboards also for Systems for example
+- Extend Grafana beyond componets and display those dashboards also for API's for example
+- Auto discover Grafana for each System & Component provided withot
 - Add embedding support for dashboards and alerts
 
 ## Q & A
