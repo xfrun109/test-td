@@ -12,7 +12,9 @@ metadata:
     # > Method 1: Link multiple dashboards by their URL
     grafana/dashboard-selector: "folderUrl == 'https://grafana.azure.dsb.dk/dashboards/f/FqJIDPHnk/responseteam'"
     #grafana/overview-dashboard: "https://grafana.azure.dsb.dk/d/9af01dd7-9c84-4ee7-be2f-efb348286f4e/talgo-ipaas-sap-integration-flows-humio?orgId=1?orgId=1&kiosk"
-    grafana/overview-dashboard: "https://grafana-test.azure.dsb.dk/d/eventhubs-by-namespace-mimir/azure-event-hub-metrics-poc?orgId=1&kiosk"
+    #grafana/overview-dashboard: "https://grafana-test.azure.dsb.dk/d/eventhubs-by-namespace-mimir/azure-event-hub-metrics-poc?orgId=1&kiosk"
+    grafana/overview-dashboard: "https://grafana-test.azure.dsb.dk/d/5a76e244-c60a-44da-b6e2-c3343b2e18dd/inter-server-metrics?orgId=1&kiosk"
+    
     
     # > Method 2: Link multiple dashboards by their tags
     # grafana/dashboard-selector: "(tags @> 'dev')"
