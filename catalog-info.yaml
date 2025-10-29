@@ -6,7 +6,7 @@ metadata:
   description: This is a test package by Frantz
   annotations:
     ### TechDocs annotations
-    backstage.io/techdocs-ref: dir:./
+    # backstage.io/techdocs-ref: dir:./
 
     # 👉 Grafana Dashboards annotations
     # > Method 1: Link multiple dashboards by their URL
