@@ -8,7 +8,7 @@ Below you can find some sample test cases that contain some links:
 - This a sample [relative link](relative_link.md) in the same root directory: `relative_link.md`;
 - Another test case is [another relative link](sub/sub_relative_link.md) that is found in a subdirectory of the repository ROOT directory: `sub/sub_relative_link.md`;
 - Sample [absolute link](https://www.dsb.dk) pointing to a great resource :bullettrain_side::train::train:.
-- [Current Sprint Demo Session](docs/demos/sprint-3/index.md)
+- [Current Sprint Demo Session](docs/demos/sprint-7/index.md)
 
 # Headings
 Root level content which contains also some images:
